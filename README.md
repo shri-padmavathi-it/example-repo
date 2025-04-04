@@ -26,3 +26,10 @@ git clone https://github.com/shri-padmavathi-it/Employee-management-system.git
 
 
 git checkout feature1
+
+
+<dependency>
+  <groupId>io.github.cdimascio</groupId>
+  <artifactId>dotenv-java</artifactId>
+  <version>3.0.0</version>
+</dependency>
